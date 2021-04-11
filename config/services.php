@@ -34,6 +34,5 @@ return [
         'client_id' => '508313031947-irup36v1n7addhmmpv40u4a50g52jc4r.apps.googleusercontent.com',
         'client_secret' => 'fLN57GhXkpSPBB1FdTWUip5r',
         'redirect' => 'https://snbg.com/auth/google/callback',
-        // 'redirect' => 'https://localhost:8000/auth/google/callback',
     ],
 ];
